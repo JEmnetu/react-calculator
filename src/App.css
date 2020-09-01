@@ -94,3 +94,10 @@ body,
 .special-btn {
   background-color: #c5c3cd;
 }
+
+/* Heading */
+#heading {
+  text-align: center;
+  color: #e0e1e6;
+  margin-right: 0.7em;
+}

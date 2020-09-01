@@ -7,6 +7,7 @@ class App extends Component {
   render() {
     return (
       <div className="app">
+        <h1 id="heading">HabteJ Calculator</h1>
         <Calculator />
       </div>
     );
